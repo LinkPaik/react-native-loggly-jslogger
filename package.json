@@ -1,6 +1,6 @@
 {
   "name": "react-native-loggly-jslogger",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "A Javascript client to send logs to Loggly.",
   "main": "dist/loggly.tracker-latest.min.js",
   "browser": "index.js",
