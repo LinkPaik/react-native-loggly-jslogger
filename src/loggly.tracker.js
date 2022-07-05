@@ -164,7 +164,7 @@
               method: 'POST',
               headers: {
                 Accept: 'application/json',
-                'Content-Type': tracker.useUtfEncoding ? 'text/plain; charset=utf-8' : 'text/plain'
+                'Content-Type': tracker.useUtfEncoding ? 'application/json; charset=utf-8' : 'application/json'
               },
               body: JSON.stringify(data),
             })
